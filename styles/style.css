@@ -3,6 +3,26 @@
     text-align: center;
 }
 
+#page-container {
+    position: relative;
+    min-height: calc(100vh - 2.5rem);
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    text-align: center;
+    align-content: center;
+    font-style: italic;
+    color: #414040;
+}
+
 .gcse-search {
     background-color: #414040;   
 }
@@ -33,14 +53,4 @@ a:hover {
 a:visited {
     color: inherit;
     text-decoration: none;
-}
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    font-style: italic;
-    color: #414040;
 }
