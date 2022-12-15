@@ -1,0 +1,35 @@
+#SiteHeader {
+    width: 100%;
+    text-align: center;
+}
+
+.gcse-search {
+    background-color: #414040;   
+}
+
+.gcse-search text {
+    color: #fff;
+}
+
+Body {
+    background-color: #242324;
+}
+
+h1 {
+    color: #ffe6c0;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    color: #414040;
+}
