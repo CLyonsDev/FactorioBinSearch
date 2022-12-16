@@ -12,6 +12,15 @@
     padding-bottom: 2.5rem;
 }
 
+#___gcse_0 {
+    box-shadow: 0px 0px 3px 0px #201815;
+    border:2px outset #414040;
+}
+
+.gsc-search-button {
+    box-shadow: 0px 0px 2px 0px #201815;
+}
+
 #footer {
     position: absolute;
     bottom: 0;
